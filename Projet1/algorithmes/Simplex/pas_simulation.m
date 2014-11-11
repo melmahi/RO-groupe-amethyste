@@ -1,0 +1,3 @@
+choix_entrante
+choix_sortante
+determiner_nouvelle_base

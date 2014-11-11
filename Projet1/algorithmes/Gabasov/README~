@@ -1,0 +1,5 @@
+ Utilisation de l'algorithme de Gabasov:
+
+* Ouverture avec Matlab, le fichier a executer est "Main.m"
+ -> Une partie est à décommenter (dans Gabasov.m") pour avoir les étapes d'itération
+

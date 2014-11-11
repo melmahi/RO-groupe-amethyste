@@ -1,0 +1,9 @@
+ Utilisation de l'algorithme du Simplex :
+
+* Ouverture avec Matlab, le fichier a executer est "menu_principal.m"
+	-> Entrer les données souhaitées ( tabulation implantée pour aidée la saisie )
+
+ /!\ Seule le cas des égalités (forme simplex) est traité, l'introduction des variables d'écarts  est non fonctionnel, elle est tout de même présente dans le fichier "preparation.m"
+
+
+	
